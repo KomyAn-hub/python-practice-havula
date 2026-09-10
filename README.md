@@ -3,6 +3,7 @@
 Student: Anna Havula
 Group: IT-32
 Course: Python programming, semester 1
+Email : annagaula92@gmail.com
 
 ## Contents
 
